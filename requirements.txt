@@ -1,0 +1,23 @@
+To use the Amazon web scraper project, you will need to have Python installed along with the necessary packages: `requests_html`, `beautifulsoup4`, `pandas`, and `numpy`. 
+Here's a step-by-step guide to installing the requirements:
+
+1. **Install Python**:
+   If you haven't already installed Python, download the latest version from the official website: https://www.python.org/downloads/
+
+2. **Install requests_html**:
+   Open your terminal or command prompt and run the following command:
+   > pip install requests_html
+
+3. **Install beautifulsoup4**:
+   Use pip to install the `beautifulsoup4` package:
+   > pip install beautifulsoup4
+
+4. **Install pandas**:
+   Install the `pandas` library using pip:
+   > pip install pandas
+
+5. **Install numpy**:
+   Finally, install `numpy` using pip:
+   > pip install numpy
+
+Now you have all the necessary dependencies to run the Amazon web scraper. You can proceed with cloning the repository and running the `amazon_web_scraper.py` script to start scraping product data from Amazon.
